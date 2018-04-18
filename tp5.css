@@ -1,0 +1,67 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+  margin: 0;
+  font-family: "Garamond";
+  color: #00000;
+}
+
+.header
+{
+    text-align: center;
+    padding: 32px;
+}
+#headerLink
+{
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: top;
+  background: gray;
+  color: white;
+  padding: 6px 8px 7px 8px;
+  border-radius: 2px;
+}
+#headerLink:hover
+{
+  color: gray;
+  background: white;
+  border: 1px solid;
+  padding: 5px 8px 6px 8px;
+  transition: background 200ms;
+}
+.row
+{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column
+{
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+.column img
+{
+  margin-top: 8px;
+  vertical-align: middle;
+}
+@media screen and (max-width: 800px)
+{
+  .column
+  {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+@media screen and (max-width: 600px)
+{
+  .column
+  {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
