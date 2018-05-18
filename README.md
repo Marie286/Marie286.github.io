@@ -4,7 +4,7 @@
 
 >This is a quotation :o
 
-==Wow, you can even highlight sentences==
+== Wow, you can even highlight sentences ==
 
 And here's a lovely image of a *caticorn* \~\~ just because \~\~
 
