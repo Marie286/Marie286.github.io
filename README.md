@@ -6,11 +6,11 @@
 
 ==Wow, you can even highlight sentences==
 
-And here's a lovely image of a *caticorn* \~\~just because\~\~
+And here's a lovely image of a *caticorn* \~\~ just because \~\~
 
 ![test](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2015%2F12%2F11083247%2Fcat.jpg&w=700&q=85)
 
-##Subjects to study for the exam:
+## Subjects to study for the exam:
 
 1. Trouver l'information
 2. Modéliser les données
