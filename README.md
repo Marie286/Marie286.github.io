@@ -12,10 +12,10 @@ And here's a lovely image of a *caticorn* \~\~just because\~\~
 
 Subjects to study for the exam:
 
--Trouver l'information
--Modéliser les données
--Numériser les sources
--Analyser le contenu
--Valoriser les résultats
+*Trouver l'information
+*Modéliser les données
+*Numériser les sources
+*Analyser le contenu
+*Valoriser les résultats
 
 Please do not hesitate to go check my License file by clicking [here](Marie286.github.io/LICENSE.md)
