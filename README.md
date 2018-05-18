@@ -17,5 +17,3 @@ Subjects to study for the exam:
 *Numériser les sources
 *Analyser le contenu
 *Valoriser les résultats
-
-Please do not hesitate to go check my License file by clicking [here](Marie286.github.io/LICENSE.md)
