@@ -6,4 +6,4 @@
 
 ==Wow, you can even highlight sentences==
 
-Please do not hesitate to go check my License file by clicking [here](Marie286.github.io/LICENSE.txt)
+Please do not hesitate to go check my License file by clicking [here](Marie286.github.io/LICENSE)
